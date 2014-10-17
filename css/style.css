@@ -7,9 +7,20 @@ body {
 	margin:0;
 }
 
-#topBar .ui-widget-header {
-	margin:10px;
+.left {
+    float: left;
 }
+
+.right {
+    float: right;
+}
+
+#topBar {
+    padding:5px;
+    height:28px;
+    vertical-align: middle;
+}
+
 	
 #tabs { 
 	background: transparent; 
